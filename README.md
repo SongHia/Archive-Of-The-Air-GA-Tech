@@ -20,3 +20,5 @@ Video footage <a href="https://www.youtube.com/watch?v=lIwUyskXkYM">"Private Nea
 <img src="https://raw.githubusercontent.com/SongHia/Archive-Of-The-Air-GA-Tech/master/photos/02_testing.jpg">
 
 <img src="https://raw.githubusercontent.com/SongHia/Archive-Of-The-Air-GA-Tech/master/photos/04_testing.jpg">
+
+<img src="https://raw.githubusercontent.com/SongHia/Archive-Of-The-Air-GA-Tech/master/photos/01_facetracking.jpg">
