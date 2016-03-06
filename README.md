@@ -1,7 +1,7 @@
 # Archive-Of-The-Air-GA-Tech
 ===============================
 
-Code for "Calculated Submission", a haptic balloon interface for drifting, and our workshop presentation.
+Code for "Calculated Submission" prototype, a haptic balloon interface for drifting, and our workshop presentation.
 
 Calculated Submission is a prototype for exploring questions and inherent tensions related to the sublime and sensory aspects of our data set. Inspired by <a href="http://www.aerocene.com/">Thomas Saraceno's Aerocene project</a>.
 
