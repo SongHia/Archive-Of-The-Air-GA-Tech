@@ -16,7 +16,6 @@ Leverages Kyle Mcdonald's <a href="https://github.com/kylemcdonald/cv-examples">
 
 Video footage <a href="https://www.youtube.com/watch?v=lIwUyskXkYM">"Private Near Space Weather Balloon"</a> by <a href="https://www.youtube.com/channel/UCjeCd8DgMf2yWU3yhAOV5UA">iaace</a> is licensed under <a href="http://creativecommons.org/licenses/by/2.0/">CCBY</a>
 
-<img src="https://raw.githubusercontent.com/SongHia/Archive-Of-The-Air-GA-Tech/master/photos/01_facetracking.jpg">
 
 <img src="https://raw.githubusercontent.com/SongHia/Archive-Of-The-Air-GA-Tech/master/photos/02_testing.jpg">
 
