@@ -5,7 +5,7 @@ Code for "Calculated Submission", a haptic balloon interface for drifting. This 
 
 Calculated Submission is a prototype for exploring questions and inherent tensions related to the sublime and sensory aspects of our data set and is inspired by <a href="http://www.aerocene.com/">Thomas Saraceno's Aerocene project</a>. The user is invited to watch weather balloon video footage (played back at a chaotic and accelerated speed) and is given a helium filled balloon with AR markers that have been applied. As the markers are recognized by the computer's video camera, playback of the journey slows. This prop was originally intended as a method for engaging with a visualization of atmospheric data.
 
-Team members: <a href="http://mit.academia.edu/BillMcKenna">Bill McKenna</a> and <a href="https://chemheritage.academia.edu/NickShapiro">Nicholas Shapiro</a> (data), <a href="http://www.jessicology.com/">Jessica Anderson</a>, <a href="http://metalab.harvard.edu/people/">Matthew Battles</a>, Song Hia, and <a href="http://blacki.info/">Blacki Migliozzi</a>.
+Team members: <a href="http://mit.academia.edu/BillMcKenna">Bill McKenna</a> and <a href="https://chemheritage.academia.edu/NickShapiro">Nicholas Shapiro</a> (data), <a href="http://www.jessicology.com/">Jessica Anderson</a>, <a href="http://metalab.harvard.edu/people/">Matthew Battles</a>, <a href="http://songhia.com/">Song Hia</a>, and <a href="http://blacki.info/">Blacki Migliozzi</a>.
 
 Created during <a href="http://humanitiesvis.lmc.gatech.edu/">Humanities Data Visualization</a>.
 
